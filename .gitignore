@@ -1,0 +1,9 @@
+*.o
+*.odt
+*.pdf
+.vscode
+*.json
+*.ipch
+*.bin
+demo
+test
